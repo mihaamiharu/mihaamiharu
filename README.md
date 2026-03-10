@@ -12,13 +12,13 @@ I'm a **Senior Software Engineer (QA)** focused on building robust automation fr
   *(Check out my recent contribution graph!)*
 
 ### 🛠️ Tech Stack & Expertise
-* **Core Foundation:** Java, Selenium, SQL
-* **Current & Advanced Automation:** Playwright, PyTest, Rest Assured, DeepEval, Appium
-* **Languages & Backend:** Go, Python, JavaScript/TypeScript
+* **Core Foundation:** Java, Selenium, SQL, Rest Assured, Appium (Flutter)
+* **Current & Advanced Automation:** Playwright, PyTest, DeepEval
+* **Languages & Backend:** Java, Python, JavaScript/TypeScript, Go
 * **Full-Stack Web (TWE):** React, TanStack Start, Tailwind CSS, PostgreSQL, Drizzle ORM
-* **DevOps & Observability:** Docker, Git, CI/CD, Datadog
+* **DevOps & Observability:** Docker, Git, CI/CD, Datadog, Kibana, Grafana
 
 ### 📫 Let's Connect
 * **Website:** [testingwithekki.com](https://testingwithekki.com)
 * **LinkedIn:** [https://linkedin.com/in/ekkisyam](https://linkedin.com/in/ekkisyam)
-* **Email:** ekki@testingwithekki.com
+* **Email:** ekkisyam2310@gmail.com
