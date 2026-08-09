@@ -1,24 +1,18 @@
-# Hi there, I'm Ekki Syam Sugiardi 👋
+# Hi, I'm Ekki 👋
 
-I'm a **Senior Software Engineer (QA)** focused on building robust automation frameworks, tools, and systems that make reliability a default feature of the product.
+I'm a Senior Software Engineer (QA). I build test automation, developer tools, and CI workflows.
 
-### 🎯 What I Do
-* **Test Engineering & Automation:** Designing scalable integration and E2E frameworks from the ground up to accelerate deployments and reduce manual effort.
-* **Technical Agility:** Seamlessly pivoting between Go, Python, Java, and JavaScript/TypeScript to solve complex quality bottlenecks across multiple product teams.
-* **Shift-Left Strategy:** Integrating quality protocols directly into the CI/CD pipeline and development phase to catch issues early.
+## Projects
 
-### ⭐ Featured Projects
-* **[KlikAgent](https://github.com/mihaamiharu/klikagent)** — AI-powered QA automation engine. Multi-agent pipeline (Explorer → Writer → Self-Correction) that generates Playwright specs + POMs from GitHub issues, enforces conventions, and opens draft PRs. Built with TypeScript, Express, Playwright, and GitHub App integration.
-* **[TWE - Testing With Ekki](https://github.com/mihaamiharu/twe)** — A gamified platform bridging the gap between manual testing and engineering. Features interactive tutorials and a Playwright-compatible Monaco code editor for real-time test execution. Built with React, TanStack Start, Tailwind CSS, PostgreSQL, and Drizzle ORM.
+- **[KlikAgent](https://github.com/mihaamiharu/klikagent)**: An AI-assisted QA tool that explores web apps, generates Playwright tests and page objects, checks its output, and opens draft pull requests.
+- **[Testing With Ekki](https://github.com/mihaamiharu/twe)**: A hands-on platform for learning QA and test automation through tutorials, coding challenges, and a Playwright-compatible editor.
 
-### 🛠️ Tech Stack & Expertise
-* **Core Foundation:** Java, Selenium, SQL, Rest Assured, Appium (Flutter)
-* **Current & Advanced Automation:** Playwright, PyTest, DeepEval
-* **Languages & Backend:** Java, Python, JavaScript/TypeScript, Go
-* **Full-Stack Web:** React, TanStack Start, Tailwind CSS, PostgreSQL, Drizzle ORM
-* **DevOps & Observability:** Docker, Git, CI/CD, Datadog, Kibana, Grafana
+## Tools
 
-### 📫 Let's Connect
-* **Website:** [testingwithekki.com](https://testingwithekki.com)
-* **LinkedIn:** [https://linkedin.com/in/ekkisyam](https://linkedin.com/in/ekkisyam)
-* **Email:** ekkisyam2310@gmail.com
+Playwright, Selenium, Appium, REST Assured, PyTest, Java, Python, Go, TypeScript, React, PostgreSQL, Docker, and CI/CD.
+
+## Contact
+
+- [testingwithekki.com](https://testingwithekki.com)
+- [LinkedIn](https://linkedin.com/in/ekkisyam)
+- [Email](mailto:ekkisyam2310@gmail.com)
