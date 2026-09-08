@@ -6,6 +6,10 @@ I build systems that help engineering teams test software faster, get better fee
 
 ## Projects
 
+### [Testing With Ekki](https://github.com/mihaamiharu/twe)
+
+A hands-on learning platform for QA and test automation, built around tutorials, coding challenges, and an interactive Playwright-compatible editor.
+
 ### [GitHub Projects E2E](https://github.com/mihaamiharu/github-projects-e2e)
 
 Playwright E2E tests for GitHub Projects using API + UI testing, BDD, custom fixtures, and automated test data management.
@@ -14,9 +18,6 @@ Playwright E2E tests for GitHub Projects using API + UI testing, BDD, custom fix
 
 AI-assisted QA tooling that explores web applications, generates Playwright tests and page objects, validates its output, and opens draft pull requests.
 
-### [Testing With Ekki](https://github.com/mihaamiharu/twe)
-
-A hands-on learning platform for QA and test automation, built around tutorials, coding challenges, and an interactive Playwright-compatible editor.
 
 ## What I Work On
 
