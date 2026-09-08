@@ -6,6 +6,10 @@ I build systems that help engineering teams test software faster, get better fee
 
 ## Projects
 
+### [GitHub Projects E2E](https://github.com/mihaamiharu/github-projects-e2e)
+
+Playwright E2E tests for GitHub Projects using API + UI testing, BDD, custom fixtures, and automated test data management.
+
 ### [KlikAgent](https://github.com/mihaamiharu/klikagent)
 
 AI-assisted QA tooling that explores web applications, generates Playwright tests and page objects, validates its output, and opens draft pull requests.
