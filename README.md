@@ -43,5 +43,5 @@ I work at the intersection of software engineering and quality engineering — b
 ## Links
 
 * [Testing With Ekki](https://testingwithekki.com)
-* [LinkedIn](https://linkedin.com/in/ekkisyam)
+* [LinkedIn](https://linkedin.com/in/ekkisyamsugiardi)
 * [Email](mailto:ekkisyam2310@gmail.com)
